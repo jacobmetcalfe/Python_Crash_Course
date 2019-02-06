@@ -12,3 +12,7 @@ When installing, just put the file into your IDE for whatever you may want to us
 ## License
 I do not own any of the book, I just summarized, and demonstrated the examples of 
 Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press.
+
+### Key Tip
+```python
+import this
