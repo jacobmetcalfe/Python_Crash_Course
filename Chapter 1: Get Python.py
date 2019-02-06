@@ -1,4 +1,3 @@
-'''python
 # Information from 'Python Crash Course, A Hands-on, Project - Based Introduction to programming
 # By Eric Matthes
 
