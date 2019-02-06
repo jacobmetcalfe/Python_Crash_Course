@@ -5,8 +5,8 @@ A Python Crash Course from the book 'Python Crash Course, A Hands-On, Project-Ba
 When installing, just put the file into your IDE for whatever you may want to use it for
 
 ## Requirements
-Python 2.7+
-IDE that can run Python
+- Python 2.7+
+- IDE that can run Python
 
 
 ## License
