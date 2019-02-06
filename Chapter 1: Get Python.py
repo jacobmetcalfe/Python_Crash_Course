@@ -5,3 +5,5 @@
 # You really just go on the Python website, download the latest version
 # I would recommend an IDE rather than terminal, or even just an online compiler
 # If student, Pycharm from JetBrains is great.
+# URL for Python https://www.python.org/downloads/
+# URL for Pycharm https://www.jetbrains.com/pycharm/
