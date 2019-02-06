@@ -15,5 +15,6 @@ Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by E
 
 ### Key Tip
 A general guideline that one should understand while doing Python.
+Either enter into IDE or terminal and run it to understand more.
 ```python
 import this
