@@ -14,5 +14,6 @@ I do not own any of the book, I just summarized, and demonstrated the examples o
 Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press.
 
 ### Key Tip
+A general guideline that one should understand while doing Python.
 ```python
 import this
