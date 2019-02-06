@@ -66,7 +66,7 @@ print(2 * 3)
 print(2 / 3)
 
 # Exponents
-print(2 ** 3)
+print(2 ** 3) # 2^3
 
 # int = whole number
 # Float= decimal to one number
