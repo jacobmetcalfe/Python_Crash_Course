@@ -19,7 +19,7 @@
 
 ## Table of Contents
 
-- [Description](#Descrition)
+- [Description](#Description)
 - [Installation](#Installation)
 - [Requirements](#Requirements)
 - [License](#License)
@@ -36,7 +36,7 @@ When installing, just put the file into your IDE for whatever you may want to us
 ## Requirements
 - Python 2.7+
 - IDE that can run Python
-- My personally reccomended items are above.
+- Personally reccomended items above.
 
 ## License
 I do not own any of the book, I just summarized, and demonstrated the examples of 
