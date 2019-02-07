@@ -3,10 +3,14 @@
 <p align="center">
   <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/qlxfptX.gif?1" width="450">
 </p>
-<p2 align = "center">
-  Get Python Here
-</p2>
-
+<p align="center">
+  <b>Get Python Here</b>
+</p>
+<p align="center">
+ <a href="https://www.python.org/downloads/">
+    <img alt="Get Python" title="Python Download" src="https://i.imgur.com/3GmPd7O.png" width="140">
+  </a>
+</p>
 ## Description
 A Python Crash Course from the book 'Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press. Examples and content shown is simple examples with some descriptions of various concepts. Ideally made for people who have a general understanding of programming.
 
