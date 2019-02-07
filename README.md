@@ -25,6 +25,7 @@
 - [License](#License)
 - [Roadmap](#Roadmap)
 - [Key Tip](#Key-Tip)
+- [Acknowledgments](#Acknowledgments)
 
 ## Description
 A Python Crash Course from the book 'Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press. Examples and content shown is simple examples with some descriptions of various concepts. Ideally made for people who have a general understanding of programming.
@@ -49,3 +50,8 @@ A general guideline that one should understand while doing Python.
 Either enter into IDE or terminal and run it to understand more.
 ```python
 import this
+```
+## Acknowledgments
+- JetBrains
+- NoStarch
+- Python
