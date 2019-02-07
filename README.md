@@ -9,8 +9,7 @@
     <img alt="Get Python" title="Python Download" src="https://i.imgur.com/3GmPd7O.png" width="130">
    </a>
     <a href="https://www.jetbrains.com/pycharm/">
-    <img alt="Get Pycharm" title="Pycharm Download" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/2000px-PyCharm_Logo.svg.png" width="50" height="50">
-  
+    <img alt="Get Pycharm" title="Pycharm Download" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/2000px-PyCharm_Logo.svg.png" width="50" height="50"> 
   </a>
 </p>
 
@@ -41,7 +40,9 @@ When installing, just put the file into your IDE for whatever you may want to us
 
 ## Cheat Sheets
 I recently found a link to access cheat sheets to print off of or go over later.
-https://github.com/ehmatthes/pcc/tree/master/cheat_sheets
+ <a href="https://ehmatthes.github.io/pcc/cheatsheets/README.html">
+    <img alt="Cheat Sheets link" title="Cheat Sheets link" src="https://en.wikipedia.org/wiki/Cheat_sheet#/media/File:Cheating.JPG" width="50" height="50"> 
+  </a>
 
 ## License
 I do not own any of the book, I just summarized, and demonstrated the examples of 
