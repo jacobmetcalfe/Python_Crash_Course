@@ -40,8 +40,9 @@ When installing, just put the file into your IDE for whatever you may want to us
 
 ## Cheat Sheets
 I recently found a link to access cheat sheets to print off of or go over later.
+
  <a href="https://ehmatthes.github.io/pcc/cheatsheets/README.html">
-    <img alt="Cheat Sheets link" title="Cheat Sheets link" src="https://en.wikipedia.org/wiki/Cheat_sheet#/media/File:Cheating.JPG" width="50" height="50"> 
+    <img alt="Cheat Sheets link" title="Cheat Sheets link" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cheating.JPG" width="50" height="50"> 
   </a>
 
 ## License
