@@ -6,7 +6,7 @@
   
 <p align="center">
  <a href="https://www.python.org/downloads/">
-    <img alt="Get Python" title="Python Download" src="https://i.imgur.com/3GmPd7O.png" width="140">
+    <img alt="Get Python" title="Python Download" src="https://i.imgur.com/3GmPd7O.png" width="130">
    </a>
     <a href="https://www.jetbrains.com/pycharm/">
     <img alt="Get Pycharm" title="Pycharm Download" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/2000px-PyCharm_Logo.svg.png" width="50" height="50">
