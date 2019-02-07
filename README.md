@@ -1,7 +1,7 @@
 <h1 align="center"> Python Crash Course </h1> <br>
 </h1> <br>
 <p align="center">
-  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/qlxfptX.gif?1" width="450">
+  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/zQvMecY.gif" width="450">
 </p>
 <p align="center">
   <b>Get Python Here</b>
