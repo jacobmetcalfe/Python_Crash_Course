@@ -1,15 +1,21 @@
 <h1 align="center"> Python Crash Course </h1> <br>
 </h1> <br>
 <p align="center">
-  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/zQvMecY.gif" width="450">
+  <img alt="Random Gif" title="Gif" src="https://i.imgur.com/zQvMecY.gif" width="200" height="200">
 </p>
-<p align="center">
-  <b>Get Python Here</b>
-</p>
+  
 <p align="center">
  <a href="https://www.python.org/downloads/">
     <img alt="Get Python" title="Python Download" src="https://i.imgur.com/3GmPd7O.png" width="140">
+   </a>
+    <a href="https://www.jetbrains.com/pycharm/">
+    <img alt="Get Python" title="Python Download" src="https://i.imgur.com/3GmPd7O.png" width="140">
+  
   </a>
+</p>
+
+<p align="center">
+
 </p>
 
 ## Description
