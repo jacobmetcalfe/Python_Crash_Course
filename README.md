@@ -44,7 +44,7 @@ Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by E
 I intend to do Functions, Classes, and Error Exception Handling in the near future.
 Later down the road, I inted to implement this with Django for web interface tutorial
 
-### Key Tip
+## Key Tip
 A general guideline that one should understand while doing Python.
 Either enter into IDE or terminal and run it to understand more.
 ```python
