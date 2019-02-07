@@ -22,6 +22,7 @@
 - [Description](#Description)
 - [Installation](#Installation)
 - [Requirements](#Requirements)
+- [Cheat Sheets](#Cheat-Sheets)
 - [License](#License)
 - [Roadmap](#Roadmap)
 - [Key Tip](#Key-Tip)
@@ -37,6 +38,10 @@ When installing, just put the file into your IDE for whatever you may want to us
 - Python 2.7+
 - IDE that can run Python
 - Personally reccomended items above.
+
+## Cheat Sheets
+I recently found a link to access cheat sheets to print off of or go over later.
+https://github.com/ehmatthes/pcc/tree/master/cheat_sheets
 
 ## License
 I do not own any of the book, I just summarized, and demonstrated the examples of 
