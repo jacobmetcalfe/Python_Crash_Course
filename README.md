@@ -43,7 +43,7 @@ Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by E
 
 ## Roadmap
 I intend to do Functions, Classes, and Error Exception Handling in the near future.
-Later down the road, I inted to implement this with Django for web interface tutorial
+Later down the road, I'd also like to implement this with Django for web interface tutorial
 
 ## Key Tip
 A general guideline that one should understand while doing Python.
