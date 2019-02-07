@@ -1,7 +1,7 @@
 <h1 align="center"> Python Crash Course </h1> <br>
 </h1> <br>
 <p align="center">
-  <img alt="Random Gif" title="Gif" src="https://i.imgur.com/zQvMecY.gif" width="200" height="200">
+  <img alt="Random Gif" title="Gif" src="https://media2.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=3640f6095c5b7b50614c6f51455e93eb" width="200" height="200">
 </p>
   
 <p align="center">
