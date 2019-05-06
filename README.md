@@ -1,25 +1,12 @@
-<h1 align="center"> Python Crash Course </h1> <br>
+<h1 align="center"> Security+ </h1> <br>
 </h1> <br>
 <p align="center">
-  <img alt="Random Gif" title="Gif" src="https://giphy.com/gifs/funny-meme-hacker-eCqFYAVjjDksg" width="200" height="200">
+  <img alt="Random Gif" title="Gif" src="https://media2.giphy.com/media/eCqFYAVjjDksg/giphy.gif?cid=790b76115cd077ea444d576a51cbdb1c&rid=giphy.gif" width="200" height="200">
 </p>
-  
-<p align="center">
- <a href="https://www.python.org/downloads/">
-    <img alt="Get Python" title="Python Download" src="https://i.imgur.com/3GmPd7O.png" width="130">
-   </a>
-    <a href="https://www.jetbrains.com/pycharm/">
-    <img alt="Get Pycharm" title="Pycharm Download" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/2000px-PyCharm_Logo.svg.png" width="50" height="50"> 
-  </a>
-</p>
-
-<p align="center">
-</p>
-
 ## Table of Contents
 
 - [Description](#Description)
-- [Installation](#Installation)
+- [Labs](#Labs)
 - [Requirements](#Requirements)
 - [Cheat Sheets](#Cheat-Sheets)
 - [License](#License)
